@@ -1,0 +1,13 @@
+PRS compression/decompression utility
+
+The PRS compression algorithm is based on LZ77 with run-length encoding
+emulation and extended matches. It is used in numerous games since the
+introduction of the SEGA Saturn, including Phantasy Star Universe inside
+the nbl file format.
+
+Archive of the original code from fuzziqer. No license was provided
+with the released files, although fuzziqer stated using the source
+freely was fine as long as he's credited for the compression and
+decompression code.
+
+See http://fuzziqer.10.forumer.com/viewtopic.php?t=110 for more details.
